@@ -1,7 +1,7 @@
 Temporary Impact Modeling
 # Overview
 
-This repository contains the Jupyter notebook, write-up on Temporary Impact Modeling for three stocks namely: SOUN, FROG and CRWW. It addresses:
+This repository contains the Jupyter notebook, write-up on Temporary Impact Modeling for three stocks namely: SOUN, FROG and CRWW. 
 
 
 # Setup
