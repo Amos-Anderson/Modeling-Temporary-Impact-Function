@@ -10,15 +10,15 @@ This repository contains the Jupyter notebook, write-up on Temporary Impact Mode
 - Install dependencies: `pip install numpy pandas matplotlib scipy seaborn`
 
 
-- Run blockhouse_notebook.ipynb in Jupyter.
+- Run main_notebook.ipynb in Jupyter.
 
 
 # Files
 
-- `blockhouse_notebook.ipynb`: Full analysis, visualizations, and optimization.
+- `main_notebook.ipynb`: Full analysis, visualizations, and optimization.
 
 
-- `Amos Anderson_BlackHouse_Trial_Test2.pdf`: Detailed LaTeX report summarizing results.
+- `Modeling Temporary Impact Function PDF.pdf`: Detailed LaTeX report summarizing results.
 
 # Usage
 
